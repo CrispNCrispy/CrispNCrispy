@@ -2,7 +2,7 @@
 
 I am Chris Pinto. After my bachelors degree in chemical engineering, I erased everything I knew and started my journey into data science. Since then, I have been on an endless jounrey of learnings in order to achieve my goal of solving business problems using data.
 
-- 🔭 I’m currently searching for work and internships to help me put into practice all my learnings
+- 🔭 I’m currently working as a Data Science Intern, creating project based DS content
 
 - 🌱 I’m currently learning newer ML practices in Tensorflow
 
@@ -10,7 +10,7 @@ I am Chris Pinto. After my bachelors degree in chemical engineering, I erased ev
 
 - 🤔 I’m looking for help with understanding NLP
 
-- 💬 Ask me about ML, DL or anything else - it'll help me find out as well
+- 💬 Ask me about ML, DL or anything else - it'll help me find out as well!
 
 - 📫 How to reach me: On my personal email: cpinto4u@gmail or on my LinkedIn: https://www.linkedin.com/in/chriscyprianpinto/
 
